@@ -245,6 +245,7 @@
 ## Back-End Development
 
 - [Flask](https://github.com/humiaozuzu/awesome-flask#readme)
+- [Django](https://github.com/django/django#readme) - Python Web framework.
 - [Docker](https://github.com/veggiemonk/awesome-docker#readme)
 - [Vagrant](https://github.com/iJackUA/awesome-vagrant#readme)
 - [Pyramid](https://github.com/uralbash/awesome-pyramid#readme)
